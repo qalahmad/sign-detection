@@ -482,10 +482,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Qusai Alahmad Almahmoud**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- GitHub: [@qalahmad](https://github.com/qalahmad)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/qusai-al/)
 
 ---
 
